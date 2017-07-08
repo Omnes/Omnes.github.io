@@ -11187,28 +11187,28 @@ var _user$project$Main$init = {
 		_elm_lang$core$Maybe$Nothing,
 		{
 			ctor: '::',
-			_0: 'Sam',
+			_0: 'Player 1',
 			_1: {
 				ctor: '::',
-				_0: 'Robin',
+				_0: 'Player 2',
 				_1: {
 					ctor: '::',
-					_0: 'Viktor',
+					_0: 'Player 3',
 					_1: {
 						ctor: '::',
-						_0: 'Banana',
+						_0: 'Player 4',
 						_1: {
 							ctor: '::',
-							_0: 'Circle',
+							_0: 'Player 5',
 							_1: {
 								ctor: '::',
-								_0: 'Green',
+								_0: 'Player 6',
 								_1: {
 									ctor: '::',
-									_0: 'Trumpet',
+									_0: 'Player 7',
 									_1: {
 										ctor: '::',
-										_0: 'Ant',
+										_0: 'Player 8',
 										_1: {ctor: '[]'}
 									}
 								}
